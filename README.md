@@ -5,8 +5,8 @@
 ## Game Description
 
 The goal of the game is to crack the code that the computer randomly generates at the start of the game. You have seven attempts to do so.<br>
-The code consists of four balls, each of which has one of six possible colours. Red and white pins help you crack the code.<br>
-A red pin means that a colour is correct and in the correct position. A white pin means that a colour is correct but not in the correct position.
+The code consists of four balls, each of which has one of six possible colors. Red and white pins help you crack the code.<br>
+A red pin means that a color is correct and in the correct position. A white pin means that a color is correct but not in the correct position.
 
 ## How to Play
 
