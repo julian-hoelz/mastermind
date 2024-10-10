@@ -10,4 +10,4 @@ A red pin means that a colour is correct and in the correct position. A white pi
 
 ## How to Play
 
-Clone the repository. Open a terminal in that folder and type <code>python mastermind.py</code>. The game will start. Type <code>/hilfe</code> to display a comprehensive game guide. After reading the guide, you’ll be ready to play!
+Clone the repository. Open a terminal in that folder and type <code>python mastermind.py</code>. The game will start. Type <code>/help</code> to display a comprehensive game guide. After reading the guide, you’ll be ready to play!
